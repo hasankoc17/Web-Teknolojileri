@@ -1,2 +1,0 @@
-Web teknolojileri ödevi kapsamında kendimi ve memleketimi tanıttığım bir web sitesi uygulaması geliştirilecek.
-Bu web sitesi responsive yapıda olacak ve istenen diğer koşulları sağlayacak.
