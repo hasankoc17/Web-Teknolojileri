@@ -26,3 +26,23 @@
     margin: 0 auto;
 
 }
+.btn{
+    margin-top: 1rem;
+    background: #336ea2;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+}
+.btn:hover{
+    color: #336ea2;
+ background-color: #fff;
+ border: 0.5px solid #336ea2;
+}
+
+.btn-dark{
+    background: #333;
+}
+.btn-dark:hover{
+    color: #333;
+    background: #fff;
+    border: 0.5px solid #333;
+}

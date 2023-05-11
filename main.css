@@ -35,3 +35,41 @@ html {
     background: #336ea2;
     border-radius: 4px;
 }
+
+#home {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 2rem;
+   border-bottom: 1px solid grey;
+}
+
+#home img {
+
+    max-width: 100%;
+    
+    border-radius: 100%;
+}
+#home .name {
+    text-align: center;
+}
+#home.name h2 {
+    margin-bottom: 0.75rem;
+}
+#home .name p {
+    opacity: 0.6;
+    font-style: italic;
+    margin-bottom: 1.2rem;;
+}
+#home a {
+    margin-top: 1rem;
+    background: #336ea2;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+}
+#home a:hover{
+ color: #336ea2;
+ background-color: #fff;
+ border: 0.5px solid #336ea2;
+}
