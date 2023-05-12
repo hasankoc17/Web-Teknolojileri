@@ -73,3 +73,22 @@ html {
  background-color: #fff;
  border: 0.5px solid #336ea2;
 }
+
+#training {
+    color:#fff;
+    padding: 1.2rem;
+}
+
+#training .items {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ height: 200px;
+}
+
+#training.items.item{
+    width: 33%;
+    text-align: center;
+    padding: 0.5rem;
+}
+
