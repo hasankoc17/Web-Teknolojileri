@@ -6,8 +6,12 @@
     height: 80px;
 }
 
+#container{
+    color: brown;
+}
 
-#trainig .items{
+#trainig .items  {
+    
     flex-direction: column;
 }
 
