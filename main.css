@@ -87,9 +87,9 @@ html {
  
 }
 
-#training.items.item{
+#training .items .item1 , .item2 , .item3{
     width: 33%;
-    text-align:center;
+    text-align: center;
     padding: 0.5rem;
     margin: 1rem;
 }
@@ -98,4 +98,40 @@ html {
     text-align:center;
     padding: 1rem;
 }
+
+#training .items .item {
+    padding: 1rem;
+
+}
+
+#Özgecmis {
+    
+    display: flex;
+    align-items: center;
+    background-color: #e6e7f1;
+    height: 280px;
+
+}
+#Özgecmis img {
+
+    max-width: 100%;
+    
+    border-radius: 100%;
+    width: 400px;
+    height: auto;
+    
+    padding: 100px;
+    
+    margin-right: 200px; 
+    margin-left: 100px;
+}
+
+#Özgecmis .isim {
+    padding-bottom: 100px;
+    font-size: 2rem;
+    
+}
+
+
+
 
